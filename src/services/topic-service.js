@@ -2,7 +2,6 @@ const MODULES_URL = "https://wbdv-generic-server.herokuapp.com/api/hany/modules"
 const LESSONS_URL = "https://wbdv-generic-server.herokuapp.com/api/hany/lessons";
 const TOPICS_URL = "https://wbdv-generic-server.herokuapp.com/api/hany/topics";
 
-
 export const createTopicForLesson = (lessonId, topic) =>
     fetch(`${LESSONS_URL}/${lessonId}/topics`, {
         method: "POST",
