@@ -1,3 +1,6 @@
+Link to project deployed on Heroku: https://wdbv-assignment8-mongo-hany.herokuapp.com/
+Some of the features may not be working at this time or may take time to load.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
